@@ -132,7 +132,7 @@ Nous répondons à **tous vos besoins IT**, des infrastructures aux applications
 
 Vous avez un projet, une faille à tester, un site à construire ?
 
-[![Email](https://img.shields.io/badge/Email-contact.shadowsec%40prontonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.shadowsec@prontonmail.com)
+[![Email](https://img.shields.io/badge/Email-contact.shadowsec%40prontonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=red)](mailto:contact.shadowsec@prontonmail.com)
 
 <br/>
 
