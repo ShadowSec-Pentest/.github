@@ -132,7 +132,7 @@ Nous répondons à **tous vos besoins IT**, des infrastructures aux applications
 
 Vous avez un projet, une faille à tester, un site à construire ?
 
-[![GitHub Org](https://img.shields.io/badge/Notre_Organisation-ShadowSec_Pentest-181717?style=for-the-badge&logo=github)](https://github.com/ShadowSec-Pentest)
+[![Email](https://img.shields.io/badge/Email-contact.shadowsec%40prontonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.shadowsec@prontonmail.com)
 
 <br/>
 
